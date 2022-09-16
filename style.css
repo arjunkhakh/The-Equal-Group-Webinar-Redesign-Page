@@ -85,7 +85,7 @@ body {
 
 .box{
     background-color:#333;
-    padding:3%;
+    padding: 2rem;
     border-radius:10px;
     color:#fff;
     font-size:120%;
@@ -99,4 +99,8 @@ body {
     text-align: center;
     color: #FFBD59;
     margin-top: 2%;
+}
+
+#blackFuturesImage {
+  border: 5px solid #FFBD59;
 }
